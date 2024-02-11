@@ -1,2 +1,2 @@
-# SPPU_LAB
-Sppu Lab Practical Codes From SE
+SPPU 2019 Pattern SE_COMP
+Computer-Graphics Practicals
